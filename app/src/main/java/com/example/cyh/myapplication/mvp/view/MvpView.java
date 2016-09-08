@@ -1,0 +1,7 @@
+package com.example.cyh.myapplication.mvp.view;
+
+/**
+ * Created by CYH on 2016/9/8.
+ */
+public interface MvpView {
+}
